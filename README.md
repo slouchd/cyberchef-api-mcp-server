@@ -1,4 +1,5 @@
 # CyberChef API MCP Server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/slouchd/cyberchef-api-mcp-server)](https://archestra.ai/mcp-catalog/slouchd__cyberchef-api-mcp-server)
 
 This model context protocol (MCP) server interfaces with the [CyberChef Server](https://github.com/gchq/CyberChef-server) API. Allowing you to use any LLM/MCP client of your choosing to utilise the tools and resources within CyberChef.
 
