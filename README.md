@@ -81,3 +81,8 @@ Here is a basic prompt being solved using the MCP server tools:
 🪪 License
 ---
 MIT License
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/slouchd-cyberchef-api-mcp-server).
+
