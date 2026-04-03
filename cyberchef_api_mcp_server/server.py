@@ -36,7 +36,7 @@ def create_api_request(endpoint: str, request_data: dict) -> dict:
     :param request_data: data to send with the POST request
     :return: dict object of response data
     """
-    api_url = f"{cyberchef_api_url}{endpoint}"
+    api_url = f"{cyberchef_api_url.rstrip('/')}/{endpoint.lstrip('/')}"
     request_headers = {
         "Accept": "application/json",
         "Content-Type": "application/json"
